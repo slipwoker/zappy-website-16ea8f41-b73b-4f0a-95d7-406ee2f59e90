@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+שטיחים מעוצבים לכל חדר ולכל סגנון — מסלון מודרני ועד חדר שינה אינטימי. אצלנו תמצאו את השטיח המושלם שיהפוך כל פינה לחוויה חיה. כנסו וגלו את הקולקציה!
+
+### תכונות
+https://example.com/features
+חומרים עמידים, עיצובים בלעדיים ומגוון מידות לכל מרחב — השטיחים שלנו נבחרו בקפידה כדי לשדרג כל בית. גלו את היתרונות שהופכים אותנו לבחירה הראשונה של מעצבי פנים.
+
+### אודות
+https://example.com/about
+אנחנו לא רק מוכרים שטיחים — אנחנו יוצרים חוויות בית. היכירו את הצוות שמאחורי שטיחים לעיצוב הבית, את הערכים שמנחים אותנו ואת המחויבות שלנו לאיכות ולעיצוב שמדבר אליכם.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה על מידות, עיצובים או משלוח? צוות המומחים שלנו כאן בשבילכם. צרו קשר עוד היום ונעזור לכם לבחור את השטיח המושלם לסלון, לחדר השינה או לכל מרחב אחר בביתכם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - שטיחים לעיצוב הבית
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - שטיחים לעיצוב הבית
+
+### Category
+https://example.com/category/:slug
+מוצרים - שטיחים לעיצוב הבית
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
